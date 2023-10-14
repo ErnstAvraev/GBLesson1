@@ -15,6 +15,14 @@ public class VendingMachine {
         productList = new ArrayList<>();
     }
 
+    public Product getProductByName(String name){
+        for (Product product : productList){
+            if (product.getName().equals(name)){
+                return product;
+            }
+        }
+        return null;
+    }
     public void addProduct(Product product){
         product.setId(productId++);
         productList.add(product);

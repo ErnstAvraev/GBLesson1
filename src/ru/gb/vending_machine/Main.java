@@ -1,8 +1,8 @@
 package GBLesson1.src.ru.gb.vending_machine;
 
-import ru.gb.vending_machine.products.Bottle;
-import ru.gb.vending_machine.products.Product;
-import ru.gb.vending_machine.vending.VendingMachine;
+import GBLesson1.src.ru.gb.vending_machine.products.Bottle;
+import GBLesson1.src.ru.gb.vending_machine.products.Product;
+import GBLesson1.src.ru.gb.vending_machine.vending.VendingMachine;
 
 public class Main {
     public static void main(String[] args) {

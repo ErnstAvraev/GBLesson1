@@ -1,4 +1,4 @@
-package ru.gb.vending_machine;
+package GBLesson1.src.ru.gb.vending_machine;
 
 import ru.gb.vending_machine.products.Bottle;
 import ru.gb.vending_machine.products.Product;

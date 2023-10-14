@@ -1,6 +1,6 @@
-package ru.gb.vending_machine.vending;
+package GBLesson1.src.ru.gb.vending_machine.vending;
 
-import ru.gb.vending_machine.products.Product;
+import GBLesson1.src.ru.gb.vending_machine.products.Product;
 
 import java.util.ArrayList;
 import java.util.List;

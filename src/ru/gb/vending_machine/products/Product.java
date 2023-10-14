@@ -1,4 +1,4 @@
-package ru.gb.vending_machine.products;
+package GBLesson1.src.ru.gb.vending_machine.products;
 
 public class Product {
     private int id;
@@ -9,6 +9,8 @@ public class Product {
         this.name = name;
         this.price = price;
     }
+
+
 
     public int getId() {
         return id;
